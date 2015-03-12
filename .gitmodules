@@ -1,0 +1,9 @@
+[submodule "Bar"]
+	path = Bar
+	url = git@github.com:stallent/Bar.git
+[submodule "Foo"]
+	path = Foo
+	url = git@github.com:stallent/Foo.git
+[submodule "FooBar"]
+	path = FooBar
+	url = git@github.com:stallent/FooBar.git
